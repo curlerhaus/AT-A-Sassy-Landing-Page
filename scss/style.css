@@ -67,13 +67,14 @@ a {
 }
 .hero nav ul {
   display: flex;
+  list-style-type: none;
 }
 .hero nav li {
   padding: 1em;
 }
 .hero-content {
   display: flex;
-  margin-top: 20em;
+  margin-top: 2em;
   align-items: center;
 }
 .hero-content img {
@@ -162,6 +163,4 @@ a {
 
 .py-5 {
   padding: 5rem 0;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
